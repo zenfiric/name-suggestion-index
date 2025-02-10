@@ -3005,8 +3005,8 @@
       }
     },
     {
-      "displayName": "Đak",
-      "locationSet": {"include": ["rs"]},
+      "displayName": "Đak sport",
+      "locationSet": {"include": ["ba", "me", "rs"]},
       "matchNames": [
         "djak",
         "djak sport",
@@ -3018,9 +3018,10 @@
         "brand": "Đak Sport",
         "brand:wikidata": "Q132131063",
         "clothes": "sports",
-        "name": "Đak",
-        "name:en": "Đak",
-        "name:sr": "Ђак",
+        "name": "Đak sport",
+        "name:en": "Đak sport",
+        "name:sr": "Ђак спорт",
+        "name:sr-Latn": "Đak sport",
         "shop": "clothes"
       }
     },
